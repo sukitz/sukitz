@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sukit <a href="https://linkedin.com/in/sukitz" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sukitz" height="22" width="22" /></a></h1>
 
-- 🌱 I’m currently learning **Flutter, React, Golang** 
+- 🌱 I’m currently using **Flutter, React, Golang** 
 
 <br />
 
